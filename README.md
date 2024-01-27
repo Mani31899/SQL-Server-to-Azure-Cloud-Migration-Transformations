@@ -1,4 +1,4 @@
-# Azure Data Engineering Project
+# SQL Server to Azure: Cloud Migration & Transformations
 
 ## Project Overview
 This project establishes a comprehensive end-to-end data pipeline, spanning from an on-premise SQL Server to Azure Data Lake Gen2. It is designed to showcase a variety of Azure services and their integration for a seamless data processing and analytics workflow.
